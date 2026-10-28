@@ -30,7 +30,7 @@ extern struct cred* ksu_cred;
 
 // kernel su version full strings
 #ifndef KSU_VERSION_FULL
-#define KSU_VERSION_FULL "v3_UAPI6@doubledashdot"
+#define KSU_VERSION_FULL "v3_UAPI6@Justus26"
 #endif
 
 #define KSU_FULL_VERSION_STRING 255
